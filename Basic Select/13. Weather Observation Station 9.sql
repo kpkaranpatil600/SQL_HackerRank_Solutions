@@ -14,4 +14,4 @@ LONG_N  | NUMBER
 */  
     
 SELECT DISTINCT(CITY) FROM STATION
-WHERE CITY NOT LIKE '[a,e,i,o,u]%';;  
+WHERE CITY NOT LIKE '[a,e,i,o,u]%';  
